@@ -6,7 +6,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-public class Main {
+public class database {
 
     public static void main(String[] args) {
         Database1 db = new Database1();
